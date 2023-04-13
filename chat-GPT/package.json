@@ -1,0 +1,23 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat-gpt-response.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djmr5/git-tutorial.git"
+  },
+  "author": "Diego Jacobo Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djmr5/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/Djmr5/git-tutorial#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
