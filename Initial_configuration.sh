@@ -23,3 +23,6 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
     # Auth to GitHub using a token
         # The minimum  required scopes for the token are "repo" and "read:org"
 gh auth login --with-token < mytoken.txt
+
+    # Configure git to use GitHub CLI as the credential helper
+gh auth setup-git
