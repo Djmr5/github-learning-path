@@ -21,4 +21,5 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 && sudo apt install gh -y
 
     # Auth to GitHub using a token
+        # The minimum  required scopes for the token are "repo" and "read:org"
 gh auth login --with-token < mytoken.txt
