@@ -30,7 +30,7 @@ gpg --armor --export [THIS_KEY_ID] | xclip -selection clipboard # Linux# Don't k
     # [SCRAMBLE]
     # -----END PGP PUBLIC KEY BLOCK-----
 
-    # Copy everything including  the BEGIN and END lines.
+    # Copy everything including the BEGIN and END lines.
 
 # Add the public key to your GitHub account
     # Go to Settings > SSH and GPG keys > New GPG key
