@@ -1,4 +1,5 @@
 #!/bin/bash
+# How to verify your commits on GitHub through SSH
 
 # Generate a new SSH key
 ssh-keygen -t ed25519 -C "your_email@example.com"

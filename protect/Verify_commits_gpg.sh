@@ -1,3 +1,4 @@
+# !/bin/bash
 # How to verify your commits on GitHub through GPG
 # https://daily-dev-tips.com/posts/how-to-verify-your-commits-on-github/#google_vignette
 
