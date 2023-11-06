@@ -83,7 +83,7 @@ You can create a new branch in two ways:
         - `hotfix/T-321-security-patch`
         - `release/v2.0.1`
         - `docs/T-654-update-readme`
-        - `style-T-987-update-styles`
+        - `style/T-987-update-styles`
 ```bash
 git checkout -b <branch>
 # or you can create a new branch and switch to it later.
