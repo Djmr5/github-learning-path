@@ -14,3 +14,6 @@ ssh -T git@github.com # Hi username! You've successfully authenticated.
 
 # Or clone some repo
 git clone git@github.com:username/repository.git target_folder
+
+  # In case you want to identify your stored keys in github you can compare their sha256 via
+  sh-keygen -lf ~/.ssh/id_rsa.pub
